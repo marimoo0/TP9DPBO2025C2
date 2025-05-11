@@ -6,7 +6,7 @@ Saya Khana Yusdiana NIM 2100991 mengerjakan soal TP 9 dalam mata kuliah Desain d
 
 ## -- Desain Program --
 
-![1]()
+![1](https://github.com/marimoo0/TP9DPBO2025C2/blob/9d1f971939687ecc292dfc4217f916d09e58cc5d/desain%20program.jpg)
 
 ## -- Penjelasan Alur --
 
